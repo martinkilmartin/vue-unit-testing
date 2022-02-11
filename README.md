@@ -78,10 +78,6 @@ describe("My component test", () => {
 
 ## 3. Use Helpers to Find Elements and Components
 
-```html
-
-```
-
 ```js
 import { shallowMount } from "@vue/test-utils";
 
